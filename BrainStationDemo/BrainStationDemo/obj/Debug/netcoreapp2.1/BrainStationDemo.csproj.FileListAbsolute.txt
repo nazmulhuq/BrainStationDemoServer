@@ -1,0 +1,14 @@
+C:\Drive\BrainStationDemo\BrainStationDemo\bin\Debug\netcoreapp2.1\BrainStationDemo.deps.json
+C:\Drive\BrainStationDemo\BrainStationDemo\bin\Debug\netcoreapp2.1\BrainStationDemo.runtimeconfig.json
+C:\Drive\BrainStationDemo\BrainStationDemo\bin\Debug\netcoreapp2.1\BrainStationDemo.runtimeconfig.dev.json
+C:\Drive\BrainStationDemo\BrainStationDemo\bin\Debug\netcoreapp2.1\BrainStationDemo.dll
+C:\Drive\BrainStationDemo\BrainStationDemo\bin\Debug\netcoreapp2.1\BrainStationDemo.pdb
+C:\Drive\BrainStationDemo\BrainStationDemo\obj\Debug\netcoreapp2.1\BrainStationDemo.csprojAssemblyReference.cache
+C:\Drive\BrainStationDemo\BrainStationDemo\obj\Debug\netcoreapp2.1\BrainStationDemo.csproj.CoreCompileInputs.cache
+C:\Drive\BrainStationDemo\BrainStationDemo\obj\Debug\netcoreapp2.1\BrainStationDemo.RazorAssemblyInfo.cache
+C:\Drive\BrainStationDemo\BrainStationDemo\obj\Debug\netcoreapp2.1\BrainStationDemo.RazorAssemblyInfo.cs
+C:\Drive\BrainStationDemo\BrainStationDemo\obj\Debug\netcoreapp2.1\BrainStationDemo.AssemblyInfoInputs.cache
+C:\Drive\BrainStationDemo\BrainStationDemo\obj\Debug\netcoreapp2.1\BrainStationDemo.AssemblyInfo.cs
+C:\Drive\BrainStationDemo\BrainStationDemo\obj\Debug\netcoreapp2.1\BrainStationDemo.RazorTargetAssemblyInfo.cache
+C:\Drive\BrainStationDemo\BrainStationDemo\obj\Debug\netcoreapp2.1\BrainStationDemo.dll
+C:\Drive\BrainStationDemo\BrainStationDemo\obj\Debug\netcoreapp2.1\BrainStationDemo.pdb
